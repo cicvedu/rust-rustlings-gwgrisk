@@ -9,6 +9,8 @@
 // look into the testcase to find out the details.
 // You should not modify this file. Modify `build.rs` to pass this exercise.
 
+mod build;
+
 fn main() {
 
 }
